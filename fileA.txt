@@ -1,1 +1,1 @@
-this is fileA -- version2 for GitHub
+this is fileA -- version2 for Master
